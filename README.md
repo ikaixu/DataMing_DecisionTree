@@ -6,6 +6,8 @@
 + id3_sample.py文件是一份python源码，来源csdn博客：【机器学习】决策树（上）——从原理到算法实现
 + id3_learn.py是自己写的id3代码，基于notebook写的代码整理所得
 + id3_learn.ipynb是自己用jupyter notebook写的代码
++ id3_test.ipynb
+> xxx
 
 ### 说明 ###
 + id3_sample.py中算法基于python的list数据结构实现
