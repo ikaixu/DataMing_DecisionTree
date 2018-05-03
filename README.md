@@ -7,7 +7,7 @@
 + id3_learn.py是自己写的id3代码，基于notebook写的代码整理所得
 + id3_learn.ipynb是自己用jupyter notebook写的代码
 + id3_test.ipynb
-> xxx
+	> 做为对id3_learn.ipynb的补充
 
 ### 说明 ###
 + id3_sample.py中算法基于python的list数据结构实现
